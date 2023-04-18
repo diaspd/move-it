@@ -33,7 +33,7 @@ $ cd
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ npm ci
+$ npm c
 
 # Start the project
 $ npm run dev
