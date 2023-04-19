@@ -1,12 +1,12 @@
-<p align="center">
-   <img src="./public/logo.svg" alt="Move It" width="320"/>
-</p>
-
 <h1 align="center">
-  https://moveit-h9tlq1493-diaspd.vercel.app/
+   <img src="./public/logo.svg" alt="Move It" width="320"/>
 </h1>
 
-<br></br>
+<h2 align="center">
+  https://moveit-h9tlq1493-diaspd.vercel.app/
+</h2>
+
+</br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
