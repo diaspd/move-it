@@ -51,6 +51,8 @@ This project was developed with the following technologies:
 - NextJs
 </b>
 
+<br></br>
+
 ## 📄 Project
 💰 A project made like a "Pomodoro Timer", for people who spend a lot of time in front of the computer and need to rest their eyes and body.
 
