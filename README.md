@@ -13,12 +13,11 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
-<h1 align="center">
+<div align="center">
   <img alt="img" title="Moveit" src="img.png" width="100%" />
-</h1>
-
+</div>
 
 
 ## 🚀 Getting started
