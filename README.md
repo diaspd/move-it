@@ -32,7 +32,7 @@ $ cd
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ npm c
+$ npm i
 
 # Start the project
 $ npm run dev
