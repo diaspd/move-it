@@ -1,5 +1,6 @@
 {
   "name": "moveit-next",
+  "author": "pedro_dias"
   "version": "0.1.0",
   "private": true,
   "scripts": {
