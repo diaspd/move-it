@@ -16,7 +16,7 @@
 </br>
 
 <div align="center">
-  <img alt="img" title="Moveit" src="img.png" width="100%" />
+  <img alt="img" title="Moveit" src="./public/template.png" width="100%" />
 </div>
 
 
