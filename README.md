@@ -13,7 +13,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
 <div align="center">
   <img alt="img" title="Moveit" src="./public/template.png" width="100%" />
