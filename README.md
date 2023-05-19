@@ -55,6 +55,11 @@ This project was developed with the following technologies:
 ## 📄 Project
 💰 A project made like a "Pomodoro Timer", for people who spend a lot of time in front of the computer and need to rest their eyes and body.
 
+</br>
+
+## 🔖 Layout
+- [Move-it - Figma](https://www.figma.com/file/W9GhJmXJNOZsvA7kcEqOlc/Move.it-1.0-Copy)
+
 <br></br>
 
 Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
